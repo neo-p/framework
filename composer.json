@@ -1,0 +1,28 @@
+{
+    "name": "neo-p/framework",
+    "description": "framework",
+    "minimum-stability": "dev",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "6xiaowu9",
+            "email": "736518585@qq.com"
+        }
+    ],
+    "require": {
+        "neo-p/process": "^0.0.1",
+        "neo-p/annotation": "^0.0.1",
+        "neo-p/config": "^0.0.1",
+        "neo-p/cosole": "^0.0.1",
+        "neo-p/log": "^0.0.1",
+        "neo-p/di": "^0.0.1"
+    },
+    "autoload": {
+        "files": [
+            "src/Helper/Function.php"
+        ],
+        "psr-4": {
+            "NeoP\\": "src/"
+        }
+    }
+}
