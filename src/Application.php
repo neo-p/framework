@@ -16,8 +16,8 @@ class Application
     public function run(string $service = "app")
     {
         self::$service = $service;
-        (new Scaner())->run();
         Config::init();
+        (new Scaner())->run();
         Container::init();
 
         Commander::init();
