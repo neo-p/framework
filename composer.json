@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "require": {
         "php": ">=7.0",
-        "neo-p/process": "^0.0.1",
-        "neo-p/annotation": "^0.0.1",
-        "neo-p/config": "^0.0.1",
-        "neo-p/cosole": "^0.0.1",
-        "neo-p/log": "^0.0.1",
-        "neo-p/di": "^0.0.1"
+        "neo-p/process": "^1.0.0",
+        "neo-p/annotation": "^1.0.0",
+        "neo-p/config": "^1.0.0",
+        "neo-p/cosole": "^1.0.0",
+        "neo-p/log": "^1.0.0",
+        "neo-p/di": "^1.0.0"
     },
     "autoload": {
         "files": [
