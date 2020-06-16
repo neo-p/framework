@@ -8,7 +8,7 @@
         "neo-p/process": "^1.0.0",
         "neo-p/annotation": "^1.0.0",
         "neo-p/config": "^1.0.0",
-        "neo-p/cosole": "^1.0.0",
+        "neo-p/console": "^1.0.0",
         "neo-p/log": "^1.0.0",
         "neo-p/di": "^1.0.0"
     },
